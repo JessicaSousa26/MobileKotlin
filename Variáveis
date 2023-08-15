@@ -1,0 +1,9 @@
+fun main() {
+    var numero = String = "10" // Variável String contendo um número
+    var nome = strNome.toInt() // Convertendo a String para Int
+    val novoNumeroInteiro = 5 // Outra variável Int
+
+    var soma = numero + novoNumeroInteiro // Somando as duas variáveis Int
+
+    println("A soma é: $soma")
+}
